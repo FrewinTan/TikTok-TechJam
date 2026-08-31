@@ -1,0 +1,72 @@
+[
+    {
+        "image_path": "test_images\\real_7.JPG",
+        "pred": 1.0,
+        "label": "ai"
+    },
+    {
+        "image_path": "test_images\\real_8.JPG",
+        "pred": 1.0,
+        "label": "ai"
+    },
+    {
+        "image_path": "test_images\\real_9.JPG",
+        "pred": 1.0,
+        "label": "ai"
+    },
+    {
+        "image_path": "test_images\\ai_1.png",
+        "pred": 0.508,
+        "label": "real"
+    },
+    {
+        "image_path": "test_images\\ai_2.png",
+        "pred": 1.0,
+        "label": "ai"
+    },
+    {
+        "image_path": "test_images\\ai_3.png",
+        "pred": 1.0,
+        "label": "ai"
+    },
+    {
+        "image_path": "test_images\\ai_4.png",
+        "pred": 0.0001,
+        "label": "real"
+    },
+    {
+        "image_path": "test_images\\ai_5.png",
+        "pred": 0.0,
+        "label": "real"
+    },
+    {
+        "image_path": "test_images\\ai_6.png",
+        "pred": 0.0,
+        "label": "real"
+    },
+    {
+        "image_path": "test_images\\ai_7.png",
+        "pred": 1.0,
+        "label": "ai"
+    },
+    {
+        "image_path": "test_images\\real_1.png",
+        "pred": 0.9479,
+        "label": "ai"
+    },
+    {
+        "image_path": "test_images\\real_2.png",
+        "pred": 0.0,
+        "label": "real"
+    },
+    {
+        "image_path": "test_images\\real_4.png",
+        "pred": 0.5,
+        "label": "real"
+    },
+    {
+        "image_path": "test_images\\real_5.png",
+        "pred": 0.0,
+        "label": "real"
+    }
+]

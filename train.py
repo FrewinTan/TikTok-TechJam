@@ -21,7 +21,7 @@ from PIL import Image
 HF_DATASET = "saberzl/SID_Set"
 MODEL_NAME = "convnext_tiny"
 
-OUTPUT_PATH = "aigc_detector_final.pth"
+OUTPUT_PATH = "aigc_detector.pth"
 RESUME_PATH = "resume_checkpoint.pth"
 METRICS_PATH = "training_metrics.json"
 
@@ -29,7 +29,7 @@ SEED = 42
 IMG_SIZE = 224
 
 BATCH_SIZE = 16
-EPOCHS = 5
+EPOCHS = 6
 LR = 3e-4
 
 STEPS_PER_EPOCH = 1000
